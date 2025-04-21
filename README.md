@@ -1,4 +1,4 @@
 # snowmen
 Minetest Game mod that adds snowmen.
 
-To install, go to .minetest/mods/ and add the folder.
+To install, unzip snowmen.zip, and go to .minetest/mods/. Add the folder.
